@@ -1,11 +1,11 @@
 #test
-
+```
 > yum install salt-master
 
 > yum install salt-minion
 
 > test
-
+```
 * wux
 
 1.youxu
