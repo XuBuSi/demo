@@ -1,7 +1,9 @@
 #test
 
 > yum install salt-master
+
 > yum install salt-minion
+
 > test
 
 * wux
